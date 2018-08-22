@@ -1,0 +1,6 @@
+Fonts used in this design;
+
+Font: Metropolis, 
+Author: Chris Simpson, 
+Url: https://www.fontsquirrel.com/fonts/metropolis; 
+
